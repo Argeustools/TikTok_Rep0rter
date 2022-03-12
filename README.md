@@ -1,2 +1,2 @@
 # TikTok_Rep0rter
-This tool ban any TikTok accoun 
+This tool ban any TikTok accountt
