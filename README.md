@@ -1,5 +1,5 @@
 # TikTok_Rep0rter
-This tool ban any TikTok account
+**This tool ban any TikTok account**
 
 tool installation
  
