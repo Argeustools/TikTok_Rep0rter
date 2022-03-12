@@ -1,7 +1,7 @@
 # TikTok_Rep0rter
 This tool ban any TikTok account
 
-<Tool installation>
+<Tool installation
  
 **apt update && apt upgrade**
 
