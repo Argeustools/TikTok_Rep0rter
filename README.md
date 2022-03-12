@@ -10,3 +10,7 @@ tool installation
 **pkg install python**
 
 **git clone https://github.com/Argeustools/TikTok_Rep0rter.git**
+
+*ls*
+
+**python titkok_reporter.py**
